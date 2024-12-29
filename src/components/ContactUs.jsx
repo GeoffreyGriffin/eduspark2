@@ -16,13 +16,13 @@ function ContactUs() {
         If you have any questions or need assistance, please reach out to us:
       </p>
       <p className="contact-info">
-        <strong>Email:</strong> <a href="mailto:eric.mongare@moringaschool.com" onClick={handleContactClick}>LearnSphere@gmail.com</a>
+        <strong>Email:</strong> <a href="mailto:eric.mongare@moringaschool.com" onClick={handleContactClick}>Eduspark@gmail.com</a>
       </p>
       <p className="contact-info">
-        <strong>Phone:</strong> +254 726 532 298
+        <strong>Phone:</strong> +254 7450 23325
       </p>
       <p className="contact-info">
-        <strong>Address:</strong> 123 Learning St, Knowledge City, EduWorld 45678
+        <strong>Address:</strong> 879 Learning St, Knowledge City, EduSparkWorld 45678
       </p>
 
       <h2 className="social-title">Follow Us</h2>

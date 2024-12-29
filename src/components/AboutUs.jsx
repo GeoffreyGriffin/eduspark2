@@ -6,7 +6,7 @@ function AboutUs() {
     <div className="about-container">
       <h1 className="about-title">About Us</h1>
       <p className="about-description">
-        Welcome to <strong>LearnSphere</strong>, your premier destination for online education. 
+        Welcome to <strong>Eduspark</strong>, your premier destination for online education. 
         Our platform offers a diverse range of courses tailored to help you achieve your educational goals, 
         whether you’re looking to advance your career, learn something new, or pursue a passion.
       </p>
@@ -22,7 +22,7 @@ function AboutUs() {
       <div className="about-vision">
         <h2>Our Vision</h2>
         <p>
-          At <strong>LearnSphere</strong>, we envision a world where education is accessible to all, empowering individuals to reach their full potential 
+          At <strong>Eduspark</strong>, we envision a world where education is accessible to all, empowering individuals to reach their full potential 
           and contribute positively to society. Our mission is to provide a platform that fosters continuous learning, personal growth, and global connectivity.
         </p>
       </div>
