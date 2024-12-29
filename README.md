@@ -1,4 +1,4 @@
-# 📚 Online Learning Platform
+# 📚 Eduspark Learning Platform
 
 An intuitive and modern online learning platform where users can enroll in courses, track their progress, and participate in discussions. This project leverages the power of Flask for the backend and React with Vite for a fast and responsive frontend experience.
 
@@ -67,5 +67,5 @@ Ensure you have the following installed on your system:
 
 1. *Clone the Repository*:
    ```bash
-   git clone https://github.com/IanMwangiii/online-learning-platform
+ **https://github.com/GeoffreyGriffin/eduspark2**
    cd online-learning-platform
